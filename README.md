@@ -1,2 +1,2 @@
-# CS188AI
-The experiment and review resource of CS188.Help you to finish the coding experiment and prepare for the final exma.
+#中山大学AI院人工智能原理课程
+本项目将包含中大AI院人工智能原理课程所涉及到的代码实验以及理论知识，帮助同学们更快更好的完成作业，以及更充分的准备期末考试。
